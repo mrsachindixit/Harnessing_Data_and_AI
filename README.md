@@ -1,8 +1,10 @@
 # Harness the power of data and top-notch AI
 
+*By Sachin Dixit*
+
 ## What is Data?
 
-![What is Data](assets/images/slide-2-img1.png)
+<img src="assets/images/slide-2-img1.png" width="560">
 
 ## Data, Data Structures and Big Data
 
@@ -33,9 +35,9 @@
 - Event time vs process time vs windowing
 - AWS style data centers
 
-![Redux state flow](assets/images/slide-5-img1.png)
+<img src="assets/images/slide-5-img1.png" width="520">
 
-![Microservices state log](assets/images/slide-5-img2.png)
+<img src="assets/images/slide-5-img2.png" width="520">
 
 Sources:
 
@@ -51,21 +53,21 @@ Sources:
 
 ## Nature of AI System
 
-![Nature of AI System](assets/images/slide-7-img1.png)
+<img src="assets/images/slide-7-img1.png" width="620">
 
 Source: https://www.deeplearningbook.org/contents/intro.html
 
 ## Data needs of ML Algos
 
-![Machine Learning Algorithms Cheat Sheet](assets/images/slide-8-img1.png)
+<img src="assets/images/slide-8-img1.png" width="720">
 
 Copyright: https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/
 
 ## Data \_ \_ \_ Architecture
 
-![A very generic Big Data Architecture](assets/images/slide-9-img1.png)
+<img src="assets/images/slide-9-img1.png" width="720">
 
-Copyright: https://www.youtube.com/watch?v=rvqCqK2Lpjg
+Copyright: https://www.youtube.com/watch?v=rvqCqK2Lpjg&list=TLPQMjQwMzIwMjTa5wH3VRpIKA&index=2
 
 ## What about these terms?
 
@@ -107,4 +109,4 @@ Copyright: https://www.youtube.com/watch?v=rvqCqK2Lpjg
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-2
 - https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/
 - https://www.deeplearningbook.org/contents/intro.html
-- https://www.youtube.com/watch?v=rvqCqK2Lpjg
+- https://www.youtube.com/watch?v=rvqCqK2Lpjg&list=TLPQMjQwMzIwMjTa5wH3VRpIKA&index=2
