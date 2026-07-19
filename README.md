@@ -28,6 +28,10 @@
 
 ## Meet Einstein
 
+<table>
+<tr>
+<td valign="top">
+
 - Mutable or not?
 - What is state?
 - Time sensitivity!
@@ -35,9 +39,15 @@
 - Event time vs process time vs windowing
 - AWS style data centers
 
-<img src="assets/images/slide-5-img1.png" width="520">
+</td>
+<td valign="top">
 
-<img src="assets/images/slide-5-img2.png" width="520">
+<img src="assets/images/slide-5-img1.png" width="440" alt="Redux state flow diagram"><br><br>
+<img src="assets/images/slide-5-img2.png" width="440" alt="Microservices state change log diagram">
+
+</td>
+</tr>
+</table>
 
 Sources:
 
